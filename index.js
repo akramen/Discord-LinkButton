@@ -11,7 +11,7 @@ if (interaction.commandName === 'goup'){
     const row = new MessageActionRow()
         .addComponents(
             new MessageButton()
-                .setLabel('Please read it here.')
+                .setLabel('Please read it here.')//Here is the text that will appear on the button.
                 .setStyle('LINK')
                 .setURL("messagelink, etc."), //Please put the URL here.
         );
