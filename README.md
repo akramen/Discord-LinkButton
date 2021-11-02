@@ -3,15 +3,15 @@
 * node v16.6.0 or higher
 * discord.js v13
 
-## English
-Have you ever found it annoying to have to scroll up to see the rules of a server or something? In such cases, you can use this button to quickly go up.
+##前提
+自分のBOTを既に作っていてスラッシュコマンド(このコードでは"/goup")を登録していること。
 
-The only things that need to be rewritten are the Label, URL, and token.
 
-After the rewrite is complete, run `node index.js`.
 
-## Japanese
+## 日本語
 サーバーなどのルールを見る際、上にスクロールするのがめんどくさいと感じたことはありませんか? そんな時にこのボタンを使えば素早く上に行くことができます。
+
+(ボタンにリンクを設定するだけなんですけどね)
 
 書き換える必要があるのはLabelとURLとtokenだけです。
 
