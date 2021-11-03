@@ -7,7 +7,7 @@ client.once('ready', () => {
 });
 
 //If the name of the slash command is 'goup'
-if (interaction.commandName === 'goup'){
+if (interaction.commandName === 'button'){
     const row = new MessageActionRow()
         .addComponents(
             new MessageButton()
