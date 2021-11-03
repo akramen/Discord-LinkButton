@@ -20,7 +20,7 @@ You must have already created your own BOT and registered the slash command ("/b
 
 書き換えが終わったら、index.jsがあるフォルダーに`cd`コマンドで移動して`node index.js`を実行して下さい。
 
-
+/
 
 This is a button that will take you to the link you set.
 
